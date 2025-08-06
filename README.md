@@ -13,3 +13,7 @@ Este repositorio es parte de una actividad académica sobre el uso de Git y GitH
 ## Autores
 
 Estudiantes de la carrera de Realidad y Videojuegos:
+-BURI MERA LAURA ELIZABETH
+-MARIA BELEN MOREIRA CLAVIJO
+-HAYDEE MAYERLI ARRICIAGA GUALE
+-JEREMMY DANIEL MOREIRA ZAMBRANO
